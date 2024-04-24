@@ -1,7 +1,7 @@
 # test #
 repositorio de...
-### Nombre y apellido:  ###
-Joaquin Rodriguez
+### Nombres y apellidos:  ###
+Joaquin Rodriguez y Jeremias Baez
 
 
 
